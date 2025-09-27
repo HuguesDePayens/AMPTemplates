@@ -108,7 +108,7 @@
         "Description": "Sets the message of the day (MOTD) shown to players when they join",
         "Keywords": "motd,message,day",
         "FieldName": "MOTD",
-        "InputType": "longtext",
+        "InputType": "textarea",
         "ParamFieldName": "/Game/Core/Blueprints/Renown_GameInstance.Renown_GameInstance_C.MOTD",
         "DefaultValue": "Welome to my server!",
         "EnumValues": {}
